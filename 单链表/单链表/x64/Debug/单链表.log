@@ -1,0 +1,20 @@
+﻿  slist.c
+E:\Users\11476\Desktop\代码\clearn_class-106-4\homework\单链表\单链表\slist.c(23,18): warning C4133: “=”: 从“SlistNode *”到“SLNode *”的类型不兼容
+E:\Users\11476\Desktop\代码\clearn_class-106-4\homework\单链表\单链表\slist.c(41,21): warning C4133: “=”: 从“SlistNode *”到“SLNode *”的类型不兼容
+E:\Users\11476\Desktop\代码\clearn_class-106-4\homework\单链表\单链表\slist.c(43,22): warning C4133: “=”: 从“SLNode *”到“SlistNode *”的类型不兼容
+E:\Users\11476\Desktop\代码\clearn_class-106-4\homework\单链表\单链表\slist.c(58,25): warning C4133: “=”: 从“SLNode *”到“SlistNode *”的类型不兼容
+E:\Users\11476\Desktop\代码\clearn_class-106-4\homework\单链表\单链表\slist.c(71,27): warning C4133: “=”: 从“SlistNode *”到“SLNode *”的类型不兼容
+E:\Users\11476\Desktop\代码\clearn_class-106-4\homework\单链表\单链表\slist.c(97,21): warning C4133: “=”: 从“SlistNode *”到“SLNode *”的类型不兼容
+E:\Users\11476\Desktop\代码\clearn_class-106-4\homework\单链表\单链表\slist.c(98,21): warning C4133: “=”: 从“SlistNode *”到“SLNode *”的类型不兼容
+E:\Users\11476\Desktop\代码\clearn_class-106-4\homework\单链表\单链表\slist.c(93,1): warning C4133: “初始化”: 从“SlistNode *”到“SLNode *”的类型不兼容
+E:\Users\11476\Desktop\代码\clearn_class-106-4\homework\单链表\单链表\slist.c(113,18): warning C4133: “=”: 从“SlistNode *”到“SLNode *”的类型不兼容
+E:\Users\11476\Desktop\代码\clearn_class-106-4\homework\单链表\单链表\slist.c(123,25): warning C4133: “!=”: 从“SLNode *”到“SlistNode *”的类型不兼容
+E:\Users\11476\Desktop\代码\clearn_class-106-4\homework\单链表\单链表\slist.c(125,18): warning C4133: “=”: 从“SlistNode *”到“SLNode *”的类型不兼容
+E:\Users\11476\Desktop\代码\clearn_class-106-4\homework\单链表\单链表\slist.c(127,21): warning C4133: “=”: 从“SLNode *”到“SlistNode *”的类型不兼容
+E:\Users\11476\Desktop\代码\clearn_class-106-4\homework\单链表\单链表\slist.c(128,21): warning C4133: “=”: 从“SLNode *”到“SlistNode *”的类型不兼容
+E:\Users\11476\Desktop\代码\clearn_class-106-4\homework\单链表\单链表\slist.c(137,21): warning C4133: “=”: 从“SLNode *”到“SlistNode *”的类型不兼容
+E:\Users\11476\Desktop\代码\clearn_class-106-4\homework\单链表\单链表\slist.c(144,1): warning C4047: “初始化”:“SLNode *”与“SLNode **”的间接级别不同
+E:\Users\11476\Desktop\代码\clearn_class-106-4\homework\单链表\单链表\slist.c(147,1): warning C4133: “初始化”: 从“SlistNode *”到“SLNode *”的类型不兼容
+  test.c
+  正在生成代码...
+  单链表.vcxproj -> E:\Users\11476\Desktop\代码\clearn_class-106-4\homework\单链表\x64\Debug\单链表.exe
